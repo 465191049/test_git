@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1JF7NGT5KKJ=</MasterId>
+  <Id>1JF7NGT5KKJ=</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_qing_apphome</Number>
+      <PkId>1JF7NIBP3VZ4</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>青_应用首页</Name>
+      <Id>1JF7NGT5KKJ=</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_qing_apphome</Number>
+      <PkId>1JF7NIU/FNX5</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>青_应用首页</Name>
+      <Id>1JF7NGT5KKJ=</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618541330469</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
