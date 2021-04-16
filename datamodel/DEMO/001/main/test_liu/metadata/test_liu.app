@@ -64,7 +64,7 @@
               <FormName>botp001</FormName>
               <FormNumber>test_botp001</FormNumber>
               <Parameter/>
-              <Name>liu111</Name>
+              <Name>liu</Name>
               <Id>1133264722682971136</Id>
               <Seq>1</Seq>
             </AppMenuElement>
@@ -137,7 +137,7 @@
       <Image>icons/pc/application/gongyingxietong_48_48.png</Image>
       <OrgFunc></OrgFunc>
       <Visible>1</Visible>
-      <ModifyDate>1618565746000</ModifyDate>
+      <ModifyDate>1618565888000</ModifyDate>
       <Dependency></Dependency>
       <HelpURL></HelpURL>
       <Label></Label>
