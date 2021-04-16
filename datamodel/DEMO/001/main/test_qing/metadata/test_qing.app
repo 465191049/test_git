@@ -36,7 +36,7 @@
               <FormName>出差情况</FormName>
               <FormNumber>tra_tripinfo</FormNumber>
               <Parameter/>
-              <Name>yyy</Name>
+              <Name>yyyyy</Name>
               <Id>1135527932773532672</Id>
               <Seq>1</Seq>
             </AppMenuElement>
@@ -109,7 +109,7 @@
       <Image>icons/pc/application/gongyingxietong_48_48.png</Image>
       <OrgFunc></OrgFunc>
       <Visible>1</Visible>
-      <ModifyDate>1618565958000</ModifyDate>
+      <ModifyDate>1618566043000</ModifyDate>
       <Dependency></Dependency>
       <HelpURL></HelpURL>
       <Label></Label>
