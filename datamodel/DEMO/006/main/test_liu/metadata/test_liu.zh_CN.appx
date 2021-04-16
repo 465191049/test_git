@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployAppMetadata>
+  <MasterId>1J2RN1N6V4BB</MasterId>
+  <Id>1J2RN1N6V4BB</Id>
+  <DesignMetas>
+    <DesignAppMetaL>
+      <PkId>1JFXYQFZSNEY</PkId>
+      <DataXml>
+        <AppMetadata/>
+      </DataXml>
+      <Name>LIU</Name>
+      <Description></Description>
+      <Id>1J2RN1N6V4BB</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignAppMetaL>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployAppMetadata>
