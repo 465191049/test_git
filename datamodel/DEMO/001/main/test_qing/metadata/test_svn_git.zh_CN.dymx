@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1JG/XHQ1A/+3</MasterId>
+  <Id>1JG/XHQ1A/+3</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_svn_git</Number>
+      <PkId>1JG/XI/KYG6F</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>svn_git</Name>
+      <Id>1JG/XHQ1A/+3</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_svn_git</Number>
+      <PkId>1JG/XI3KVAGH</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>svn_git</Name>
+      <Id>1JG/XHQ1A/+3</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618561272215</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

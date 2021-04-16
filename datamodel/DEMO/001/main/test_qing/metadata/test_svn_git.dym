@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Multilanguage>false</Multilanguage>
+  <MasterId>1JG/XHQ1A/+3</MasterId>
+  <BizappId>1JF7N38+XB/P</BizappId>
+  <Id>1JG/XHQ1A/+3</Id>
+  <DesignMetas>
+    <DesignFormMeta>
+      <DevType>0</DevType>
+      <ModifyDate>1618561272000</ModifyDate>
+      <DataXml>
+        <FormMetadata>
+          <Isv>test</Isv>
+          <Id>1JG/XHQ1A/+3</Id>
+          <Key>test_svn_git</Key>
+          <EntityId>1JG/XHQ1A/+3</EntityId>
+          <ParentId>00305e8b000006ac</ParentId>
+          <BizappId>1JF7N38+XB/P</BizappId>
+          <Name>svn_git</Name>
+          <InheritPath>00305e8b000006ac</InheritPath>
+          <Items>
+            <BillFormAp action="edit" oid="00305e8b000005ac">
+              <MobListMeta>
+                <FormMetadata>
+                  <Items>
+                    <BillListAp action="edit" oid="_BillList_">
+                      <EntityId>1JG/XHQ1A/+3</EntityId>
+                    </BillListAp>
+                  </Items>
+                </FormMetadata>
+              </MobListMeta>
+              <Id>1JG/XHQ1A/+3</Id>
+              <Name>svn_git</Name>
+              <Key>test_svn_git</Key>
+            </BillFormAp>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <ModifierId>1133252311779377152</ModifierId>
+      <EntityId>1JG/XHQ1A/+3</EntityId>
+      <ModelType>BillFormModel</ModelType>
+      <Isv>test</Isv>
+      <Version>1618561272215</Version>
+      <ParentId>00305e8b000006ac</ParentId>
+      <MasterId></MasterId>
+      <Number>test_svn_git</Number>
+      <BizappId>1JF7N38+XB/P</BizappId>
+      <IsvSign></IsvSign>
+      <Id>1JG/XHQ1A/+3</Id>
+      <InheritPath>00305e8b000006ac</InheritPath>
+    </DesignFormMeta>
+    <DesignEntityMeta>
+      <DevType>0</DevType>
+      <DataXml>
+        <EntityMetadata>
+          <Id>1JG/XHQ1A/+3</Id>
+          <ParentId>00305e8b000006ac</ParentId>
+          <BizappId>1JF7N38+XB/P</BizappId>
+          <IsvSign/>
+          <Name>svn_git</Name>
+          <InheritPath>00305e8b000006ac</InheritPath>
+          <Items>
+            <BillEntity action="edit" oid="00305e8b000007ac">
+              <Template action="reset"/>
+              <dbRoute>secd</dbRoute>
+              <Id>1JG/XHQ1A/+3</Id>
+              <Key>test_svn_git</Key>
+              <Name>svn_git</Name>
+            </BillEntity>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <ModelType>BillFormModel</ModelType>
+      <Isv></Isv>
+      <Version>1618561272261</Version>
+      <ParentId>00305e8b000006ac</ParentId>
+      <MasterId></MasterId>
+      <Number>test_svn_git</Number>
+      <BizappId>1JF7N38+XB/P</BizappId>
+      <Id>1JG/XHQ1A/+3</Id>
+      <InheritPath>00305e8b000006ac</InheritPath>
+    </DesignEntityMeta>
+  </DesignMetas>
+  <Version>1618561272215</Version>
+  <BOSVersion>1.0</BOSVersion>
+  <BizunitId>1JF7N5MF1LM2</BizunitId>
+</DeployMetadata>
