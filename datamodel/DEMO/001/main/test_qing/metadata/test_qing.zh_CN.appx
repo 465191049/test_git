@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployAppMetadata>
+  <MasterId>1JF7N38+XB/P</MasterId>
+  <Id>1JF7N38+XB/P</Id>
+  <DesignMetas>
+    <DesignAppMetaL>
+      <PkId>1JG04UC=S4BQ</PkId>
+      <DataXml>
+        <AppMetadata/>
+      </DataXml>
+      <Name>青</Name>
+      <Description></Description>
+      <Id>1JF7N38+XB/P</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignAppMetaL>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployAppMetadata>
