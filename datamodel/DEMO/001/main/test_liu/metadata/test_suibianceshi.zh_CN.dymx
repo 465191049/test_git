@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1J5VZ9L15=GD</MasterId>
+  <Id>1J5VZ9L15=GD</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_suibianceshi</Number>
+      <PkId>1JBS6TC2XLNI</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>随便测试</Name>
+      <Id>1J5VZ9L15=GD</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_suibianceshi</Number>
+      <PkId>1JBS6TFMPD+/</PkId>
+      <DataXml>
+        <EntityMetadata>
+          <Items>
+            <UnitField action="edit" oid="F6i6d904sI">
+              <RefProps>
+                <RefProp>
+                  <Name>precisionaccount</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>conversiontype</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>precision</Name>
+                </RefProp>
+              </RefProps>
+            </UnitField>
+            <CurrencyField action="edit" oid="fMUeogRcmB">
+              <RefProps>
+                <RefProp>
+                  <Name>amtprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>priceprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>sign</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>isshowsign</Name>
+                </RefProp>
+              </RefProps>
+            </CurrencyField>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <Name>随便测试</Name>
+      <Id>1J5VZ9L15=GD</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618455547399</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1J693XJXP304</MasterId>
+  <Id>1J693XJXP304</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_suibianceshi_bj</Number>
+      <PkId>1J695UTDGI/S</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>随便测试_布局</Name>
+      <Id>1J693XJXP304</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+  </DesignMetas>
+  <Version>1618293477305</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

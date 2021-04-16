@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Multilanguage>false</Multilanguage>
+  <MasterId>1J9AW24GSGKL</MasterId>
+  <BizappId>1J2RN1N6V4BB</BizappId>
+  <Id>1J9AW24GSGKL</Id>
+  <DesignMetas>
+    <DesignFormMeta>
+      <DevType>0</DevType>
+      <ModifyDate>1618370225000</ModifyDate>
+      <DataXml>
+        <FormMetadata>
+          <Id>1J9AW24GSGKL</Id>
+          <Key>test_billtypetest_layout</Key>
+          <ParentId>1J9=QQN9FE8R</ParentId>
+          <Name>单据类型测试_布局</Name>
+          <InheritPath>00305e8b000006ac,1J9=QQN9FE8R</InheritPath>
+          <Items>
+            <BillFormAp action="edit" oid="00305e8b000005ac">
+              <Plugins>
+                <Plugin action="edit" oid="kd.bos.form.plugin.TemplateBillEdit">
+                  <Enabled action="reset"/>
+                </Plugin>
+                <Plugin action="edit" oid="kd.bos.form.plugin.CodeRulePlugin">
+                  <Enabled action="reset"/>
+                </Plugin>
+              </Plugins>
+              <Id>1J9AW24GSGKL</Id>
+              <Name>单据类型测试_布局</Name>
+              <Key>test_billtypetest_layout</Key>
+            </BillFormAp>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <Visible/>
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <ModifierId>1128310777833326592</ModifierId>
+      <EntityId>1J9=QQN9FE8R</EntityId>
+      <ModelType>BillFormModel</ModelType>
+      <Isv>test</Isv>
+      <Version>1618370224753</Version>
+      <ParentId>1J9=QQN9FE8R</ParentId>
+      <MasterId></MasterId>
+      <Number>test_billtypetest_layout</Number>
+      <BizappId>1J2RN1N6V4BB</BizappId>
+      <IsvSign></IsvSign>
+      <Id>1J9AW24GSGKL</Id>
+      <InheritPath>00305e8b000006ac,1J9=QQN9FE8R</InheritPath>
+    </DesignFormMeta>
+  </DesignMetas>
+  <Version>1618370224753</Version>
+  <BOSVersion>1.0</BOSVersion>
+  <BizunitId>1J9=P7B4ERN=</BizunitId>
+</DeployMetadata>

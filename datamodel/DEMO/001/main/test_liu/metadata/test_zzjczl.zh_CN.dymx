@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1JBJL3FJXF7C</MasterId>
+  <Id>1JBJL3FJXF7C</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_zzjczl</Number>
+      <PkId>1JBJLUPL8QVK</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>自制基础资料</Name>
+      <Id>1JBJL3FJXF7C</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_zzjczl</Number>
+      <PkId>1JBJLUSRIVE/</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>自制基础资料</Name>
+      <Id>1JBJL3FJXF7C</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618450067623</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

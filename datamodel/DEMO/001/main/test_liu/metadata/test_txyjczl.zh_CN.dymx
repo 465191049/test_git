@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1JBK5PSQF+OR</MasterId>
+  <Id>1JBK5PSQF+OR</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_txyjczl</Number>
+      <PkId>1JBKCNWCR5OC</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>弹性域基础资料</Name>
+      <Id>1JBK5PSQF+OR</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_txyjczl</Number>
+      <PkId>1JBKCNZTXITB</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>弹性域基础资料</Name>
+      <Id>1JBK5PSQF+OR</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618450555541</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1J2YH+0W43/U</MasterId>
+  <Id>1J2YH+0W43/U</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_botp002_layout</Number>
+      <PkId>1J2YI3BTXI5L</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>botp002_布局</Name>
+      <Id>1J2YH+0W43/U</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+  </DesignMetas>
+  <Version>1618210753201</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

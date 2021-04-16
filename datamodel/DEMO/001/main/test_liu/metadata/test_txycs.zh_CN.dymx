@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1JBKPX6NL0=H</MasterId>
+  <Id>1JBKPX6NL0=H</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_txycs</Number>
+      <PkId>1JBOXY=UM/C7</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>弹性域测试</Name>
+      <Id>1JBKPX6NL0=H</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_txycs</Number>
+      <PkId>1JBOXYDUIVN9</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>弹性域测试</Name>
+      <Id>1JBKPX6NL0=H</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618453455482</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

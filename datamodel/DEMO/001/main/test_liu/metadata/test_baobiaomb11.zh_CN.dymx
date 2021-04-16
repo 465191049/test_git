@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1J6JDK=57BF8</MasterId>
+  <Id>1J6JDK=57BF8</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_baobiaomb11</Number>
+      <PkId>1JBY9+C6G7T0</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>随便报表11</Name>
+      <Id>1J6JDK=57BF8</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_baobiaomb11</Number>
+      <PkId>1JBY9+G/48P1</PkId>
+      <DataXml>
+        <EntityMetadata>
+          <Items>
+            <UnitField action="edit" oid="0yvn7AoJBX">
+              <RefProps>
+                <RefProp>
+                  <Name>precisionaccount</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>conversiontype</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>precision</Name>
+                </RefProp>
+              </RefProps>
+            </UnitField>
+            <CurrencyField action="edit" oid="adhKRrbeuA">
+              <RefProps>
+                <RefProp>
+                  <Name>amtprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>priceprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>sign</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>isshowsign</Name>
+                </RefProp>
+              </RefProps>
+            </CurrencyField>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <Name>随便报表11</Name>
+      <Id>1J6JDK=57BF8</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618459411104</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

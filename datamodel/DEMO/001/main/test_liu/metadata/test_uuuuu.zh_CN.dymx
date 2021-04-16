@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1JCNOCXWV21D</MasterId>
+  <Id>1JCNOCXWV21D</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_uuuuu</Number>
+      <PkId>1JCQ4UT+ZIV5</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>测试</Name>
+      <Id>1JCNOCXWV21D</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_uuuuu</Number>
+      <PkId>1JCQ4UW1M872</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>测试</Name>
+      <Id>1JCNOCXWV21D</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618479121533</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

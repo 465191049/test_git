@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1J9ODPO6=1MJ</MasterId>
+  <Id>1J9ODPO6=1MJ</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_billtypetest_prt</Number>
+      <PkId>1J9OEH=J9O88</PkId>
+      <DataXml>
+        <PrintMetadata/>
+      </DataXml>
+      <Name>test_billtypetest_prt</Name>
+      <Id>1J9ODPO6=1MJ</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+  </DesignMetas>
+  <Version>1618378490449</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

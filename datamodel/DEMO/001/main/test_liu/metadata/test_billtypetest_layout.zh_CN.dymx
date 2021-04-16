@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1J9AW24GSGKL</MasterId>
+  <Id>1J9AW24GSGKL</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_billtypetest_layout</Number>
+      <PkId>1J9BG80T/=UG</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>单据类型测试_布局</Name>
+      <Id>1J9AW24GSGKL</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+  </DesignMetas>
+  <Version>1618370224753</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

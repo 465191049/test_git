@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1J2RQ9OYE+HT</MasterId>
+  <Id>1J2RQ9OYE+HT</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_botp001</Number>
+      <PkId>1JFT88UAU9D/</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>botp001</Name>
+      <Id>1J2RQ9OYE+HT</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_botp001</Number>
+      <PkId>1JFT88YWHLU4</PkId>
+      <DataXml>
+        <EntityMetadata>
+          <Items>
+            <UnitField action="edit" oid="OQw58v7AqZ">
+              <RefProps>
+                <RefProp>
+                  <Name>precisionaccount</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>conversiontype</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>precision</Name>
+                </RefProp>
+              </RefProps>
+            </UnitField>
+            <CurrencyField action="edit" oid="99dHIm03to">
+              <RefProps>
+                <RefProp>
+                  <Name>amtprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>priceprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>sign</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>isshowsign</Name>
+                </RefProp>
+              </RefProps>
+            </CurrencyField>
+            <CurrencyField action="edit" oid="E9P1grm8dO">
+              <RefProps>
+                <RefProp>
+                  <Name>amtprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>priceprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>sign</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>isshowsign</Name>
+                </RefProp>
+              </RefProps>
+            </CurrencyField>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <Name>botp001</Name>
+      <Id>1J2RQ9OYE+HT</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618555738527</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

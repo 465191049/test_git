@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1JCIXGZP+F/7</MasterId>
+  <Id>1JCIXGZP+F/7</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_csyyeb</Number>
+      <PkId>1JCK56FVYP0S</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>测试用余额表</Name>
+      <Id>1JCIXGZP+F/7</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_csyyeb</Number>
+      <PkId>1JCK56IK2QMN</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>测试用余额表</Name>
+      <Id>1JCIXGZP+F/7</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618475299301</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
