@@ -26,18 +26,18 @@
           <AppMenus>
             <AppMenuElement>
               <FormId>/9ZLSWRJE1Z2</FormId>
-              <IconShortcut>/icons/pc/application/tysj5_48_48.png</IconShortcut>
+              <IconShortcut>/icons/pc/application/tysj4_48_48.png</IconShortcut>
               <Visible>true</Visible>
               <Description/>
               <ParentId>1JF7N38+XB/P</ParentId>
               <OpenType>MainNewTabPage</OpenType>
-              <VectorImage>kdfont kdfont-cebianlantubiao6beifen</VectorImage>
-              <Number>b48378798b</Number>
+              <VectorImage>kdfont kdfont-cebianlantubiao1beifen</VectorImage>
+              <Number>ee9e3bfeac</Number>
               <FormName>出差情况</FormName>
               <FormNumber>tra_tripinfo</FormNumber>
               <Parameter/>
-              <Name>xxx</Name>
-              <Id>1135493929458732032</Id>
+              <Name>yyyyy</Name>
+              <Id>1135527932773532672</Id>
               <Seq>1</Seq>
             </AppMenuElement>
             <AppMenuElement>
@@ -109,7 +109,7 @@
       <Image>icons/pc/application/gongyingxietong_48_48.png</Image>
       <OrgFunc></OrgFunc>
       <Visible>1</Visible>
-      <ModifyDate>1618561425000</ModifyDate>
+      <ModifyDate>1618565682000</ModifyDate>
       <Dependency></Dependency>
       <HelpURL></HelpURL>
       <Label></Label>
