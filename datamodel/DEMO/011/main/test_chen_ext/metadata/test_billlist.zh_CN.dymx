@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1JFUYWCT/68F</MasterId>
+  <Id>1JFUYWCT/68F</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_billlist</Number>
+      <PkId>1JG5SAZBWIL7</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>列表</Name>
+      <Id>1JFUYWCT/68F</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_billlist</Number>
+      <PkId>1JG5SB1BTCW9</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>列表</Name>
+      <Id>1JFUYWCT/68F</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618565015514</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

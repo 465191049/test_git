@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1JFTFYJ899H=</MasterId>
+  <Id>1JFTFYJ899H=</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_list_count_test</Number>
+      <PkId>1JG5QMTD593Z</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>列表合计测试</Name>
+      <Id>1JFTFYJ899H=</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_list_count_test</Number>
+      <PkId>1JG5QMXRKS61</PkId>
+      <DataXml>
+        <EntityMetadata>
+          <Items>
+            <CurrencyField action="edit" oid="ebw01Zu0fk">
+              <RefProps>
+                <RefProp>
+                  <Name>amtprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>priceprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>sign</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>isshowsign</Name>
+                </RefProp>
+              </RefProps>
+            </CurrencyField>
+            <CurrencyField action="edit" oid="cL5o9TDnqR">
+              <RefProps>
+                <RefProp>
+                  <Name>amtprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>priceprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>sign</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>isshowsign</Name>
+                </RefProp>
+              </RefProps>
+            </CurrencyField>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <Name>列表合计测试</Name>
+      <Id>1JFTFYJ899H=</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618564987765</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
