@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1JJEXN8BGH/T</MasterId>
+  <Id>1JJEXN8BGH/T</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_testabds</Number>
+      <PkId>1JX5WWFFRD=2</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>单据0256</Name>
+      <Id>1JJEXN8BGH/T</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_testabds</Number>
+      <PkId>1JX5WWJU5XB6</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>单据0256</Name>
+      <Id>1JJEXN8BGH/T</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618988090080</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

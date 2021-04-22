@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1JKDF07R6KXP</MasterId>
+  <Id>1JKDF07R6KXP</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_multf7</Number>
+      <PkId>1JKDGBO4YIOM</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>测试多选基础资料</Name>
+      <Id>1JKDF07R6KXP</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_multf7</Number>
+      <PkId>1JKDGBOETS95</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>测试多选基础资料</Name>
+      <Id>1JKDF07R6KXP</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1618670091028</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
