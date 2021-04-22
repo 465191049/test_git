@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployAppMetadata>
+  <MasterId>1JJE=2398M+Y</MasterId>
+  <Id>1JJE=2398M+Y</Id>
+  <DesignMetas>
+    <DesignAppMetaL>
+      <PkId>1JJEP42S/4NV</PkId>
+      <DataXml>
+        <AppMetadata/>
+      </DataXml>
+      <Name>tests</Name>
+      <Description></Description>
+      <Id>1JJE=2398M+Y</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignAppMetaL>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployAppMetadata>
