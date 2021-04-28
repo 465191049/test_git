@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Id>1132559434485071872</Id>
+  <DesignMetas>
+    <DesignConvertRuleMetaL>
+      <PkId>1KAXB7XK=XU6</PkId>
+      <DataXml>
+        <ConvertRuleMetadata/>
+      </DataXml>
+      <Name>转换规则-单据体</Name>
+      <Id>1132559434485071872</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignConvertRuleMetaL>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
