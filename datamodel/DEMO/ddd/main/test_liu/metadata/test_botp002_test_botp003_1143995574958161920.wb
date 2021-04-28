@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Id>1143995574958161920</Id>
+  <DesignMetas>
+    <DesignWriteBackRuleMeta>
+      <DevType>0</DevType>
+      <ModifyDate>1619575125000</ModifyDate>
+      <DataXml>
+        <WriteBackRuleMetadata>
+          <DevType>0</DevType>
+          <Isv>test</Isv>
+          <ParentId/>
+          <BizappId>1J2RN1N6V4BB</BizappId>
+          <Name>Reverse Write Rule</Name>
+          <RuleElement>
+            <WriteBackRuleElement>
+              <BillCloseFieldSuccesStatus/>
+              <EntryCloseFieldKey/>
+              <EntryCloseFieldFailStatus/>
+              <BillCloseFieldFailStatus/>
+              <Formulas>
+                <WriteBackFormula>
+                  <WriteType>Add</WriteType>
+                  <Id>1143997467008697344</Id>
+                  <SourceCommitFieldKey/>
+                </WriteBackFormula>
+              </Formulas>
+              <OriVersion>1143997467075805184</OriVersion>
+              <ExcessFalse>CanExcellAlways</ExcessFalse>
+              <ExcessCheckMessage/>
+              <BillCloseFieldKey/>
+              <ExcessTrue>CanExcellAlways</ExcessTrue>
+              <ExcessCheck>CanExcellAlways</ExcessCheck>
+              <SysStatus>0</SysStatus>
+              <TargetEntityNumber>test_botp003</TargetEntityNumber>
+              <SourceEntityNumber>test_botp002</SourceEntityNumber>
+              <Distribute>TopDown</Distribute>
+              <Id>1143995574958161920</Id>
+              <Op>Save</Op>
+              <CloseType>AllRowsClosed</CloseType>
+              <EntryCloseFieldSuccesStatus/>
+              <Name>Reverse Write Rule</Name>
+              <CustStatus>2</CustStatus>
+            </WriteBackRuleElement>
+          </RuleElement>
+          <Id>1143995574958161920</Id>
+          <InheritPath/>
+          <CreateDate>1619574899000</CreateDate>
+        </WriteBackRuleMetadata>
+      </DataXml>
+      <ModifierId>1133252311779377152</ModifierId>
+      <ModelType>WriteBackRuleModel</ModelType>
+      <Isv>test</Isv>
+      <Version>1619575125319</Version>
+      <ParentId></ParentId>
+      <MasterId></MasterId>
+      <SysStatus>0</SysStatus>
+      <BizappId>1J2RN1N6V4BB</BizappId>
+      <TargetEntityNumber>test_botp003</TargetEntityNumber>
+      <SourceEntityNumber>test_botp002</SourceEntityNumber>
+      <Id>1143995574958161920</Id>
+      <InheritPath></InheritPath>
+      <CreateDate>1619574899000</CreateDate>
+      <CustStatus>2</CustStatus>
+    </DesignWriteBackRuleMeta>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

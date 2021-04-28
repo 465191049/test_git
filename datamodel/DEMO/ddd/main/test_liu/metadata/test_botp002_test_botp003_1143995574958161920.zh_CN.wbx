@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Id>1143995574958161920</Id>
+  <DesignMetas>
+    <DesignWriteBackRuleMetaL>
+      <PkId>1KHS+ZL739IE</PkId>
+      <DataXml>
+        <WriteBackRuleMetadata/>
+      </DataXml>
+      <Name>Reverse Write Rule</Name>
+      <Id>1143995574958161920</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignWriteBackRuleMetaL>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
