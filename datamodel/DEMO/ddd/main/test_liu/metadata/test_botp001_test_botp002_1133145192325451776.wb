@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Id>1133145192325451776</Id>
+  <DesignMetas>
+    <DesignWriteBackRuleMeta>
+      <DevType>2</DevType>
+      <ModifyDate>1618281454000</ModifyDate>
+      <DataXml>
+        <WriteBackRuleMetadata>
+          <DevType>2</DevType>
+          <ParentId>1133122116867067904</ParentId>
+          <MasterId>1133122116867067904</MasterId>
+          <Name>反写规则-保存反写_扩展</Name>
+          <RuleElement>
+            <WriteBackRuleElement>
+              <Formulas>
+                <WriteBackFormula action="edit" oid="1133123293293842432">
+                  <WriteType>Add</WriteType>
+                </WriteBackFormula>
+              </Formulas>
+              <Id>1133145192325451776</Id>
+              <ExtVersion>1133145365776700416</ExtVersion>
+              <Name>反写规则-保存反写_扩展</Name>
+            </WriteBackRuleElement>
+          </RuleElement>
+          <Id>1133145192325451776</Id>
+          <InheritPath>1133122116867067904</InheritPath>
+          <CreateDate>1618281433000</CreateDate>
+        </WriteBackRuleMetadata>
+      </DataXml>
+      <ModifierId>1128310777833326592</ModifierId>
+      <ModelType>WriteBackRuleModel</ModelType>
+      <Isv>test</Isv>
+      <Version>1618281454032</Version>
+      <ParentId>1133122116867067904</ParentId>
+      <MasterId>1133122116867067904</MasterId>
+      <SysStatus>0</SysStatus>
+      <BizappId>1J2RN1N6V4BB</BizappId>
+      <TargetEntityNumber>test_botp002</TargetEntityNumber>
+      <SourceEntityNumber>test_botp001</SourceEntityNumber>
+      <Id>1133145192325451776</Id>
+      <InheritPath>1133122116867067904</InheritPath>
+      <CreateDate>1618281433000</CreateDate>
+      <CustStatus>1</CustStatus>
+    </DesignWriteBackRuleMeta>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
