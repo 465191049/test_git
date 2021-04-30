@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1J6CB2TZWCG7</MasterId>
+  <Id>1J6CB2TZWCG7</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_bill1</Number>
+      <PkId>1KPL7/OQ42WO</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>test_bill1</Name>
+      <Id>1J6CB2TZWCG7</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_bill1</Number>
+      <PkId>1KPL7/TJOOXB</PkId>
+      <DataXml>
+        <EntityMetadata>
+          <Items>
+            <CurrencyField action="edit" oid="uHbG4IrEtd">
+              <RefProps>
+                <RefProp>
+                  <Name>amtprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>priceprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>sign</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>isshowsign</Name>
+                </RefProp>
+              </RefProps>
+            </CurrencyField>
+            <CurrencyField action="edit" oid="rqdcfM4WmK">
+              <RefProps>
+                <RefProp>
+                  <Name>amtprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>priceprecision</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>sign</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>isshowsign</Name>
+                </RefProp>
+              </RefProps>
+            </CurrencyField>
+            <UnitField action="edit" oid="BuRAcPEVdW">
+              <RefProps>
+                <RefProp>
+                  <Name>precisionaccount</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>conversiontype</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>precision</Name>
+                </RefProp>
+              </RefProps>
+            </UnitField>
+            <UnitField action="edit" oid="OJFdpJu9pO">
+              <RefProps>
+                <RefProp>
+                  <Name>precisionaccount</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>conversiontype</Name>
+                </RefProp>
+                <RefProp>
+                  <Name>precision</Name>
+                </RefProp>
+              </RefProps>
+            </UnitField>
+            <MulComboField action="edit" oid="SBxguD99ZF">
+              <Items>
+                <ComboItem action="edit" oid="432432">
+                  <Caption>文本</Caption>
+                </ComboItem>
+                <ComboItem action="edit" oid="432345">
+                  <Caption>文本</Caption>
+                </ComboItem>
+                <ComboItem action="edit" oid="765765765">
+                  <Caption>文本</Caption>
+                </ComboItem>
+              </Items>
+            </MulComboField>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <Name>test_bill1</Name>
+      <Id>1J6CB2TZWCG7</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1619769849883</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
