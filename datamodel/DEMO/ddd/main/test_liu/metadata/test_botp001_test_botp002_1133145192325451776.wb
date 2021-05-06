@@ -5,7 +5,7 @@
   <DesignMetas>
     <DesignWriteBackRuleMeta>
       <DevType>2</DevType>
-      <ModifyDate>1618281454000</ModifyDate>
+      <ModifyDate>1619765874000</ModifyDate>
       <DataXml>
         <WriteBackRuleMetadata>
           <DevType>2</DevType>
@@ -14,13 +14,8 @@
           <Name>反写规则-保存反写_扩展</Name>
           <RuleElement>
             <WriteBackRuleElement>
-              <Formulas>
-                <WriteBackFormula action="edit" oid="1133123293293842432">
-                  <WriteType>Add</WriteType>
-                </WriteBackFormula>
-              </Formulas>
               <Id>1133145192325451776</Id>
-              <ExtVersion>1133145365776700416</ExtVersion>
+              <ExtVersion>1145597584841113600</ExtVersion>
               <Name>反写规则-保存反写_扩展</Name>
             </WriteBackRuleElement>
           </RuleElement>
@@ -29,10 +24,10 @@
           <CreateDate>1618281433000</CreateDate>
         </WriteBackRuleMetadata>
       </DataXml>
-      <ModifierId>1128310777833326592</ModifierId>
+      <ModifierId>1133252311779377152</ModifierId>
       <ModelType>WriteBackRuleModel</ModelType>
       <Isv>test</Isv>
-      <Version>1618281454032</Version>
+      <Version>1619765874259</Version>
       <ParentId>1133122116867067904</ParentId>
       <MasterId>1133122116867067904</MasterId>
       <SysStatus>0</SysStatus>
