@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1KHQQZT84KVU</MasterId>
+  <Id>1KHQQZT84KVU</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>test_botp003</Number>
+      <PkId>1KHRDNJRQJ4A</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>botp003</Name>
+      <Id>1KHQQZT84KVU</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>test_botp003</Number>
+      <PkId>1KHRDNOL=45+</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>botp003</Name>
+      <Id>1KHQQZT84KVU</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1619574744005</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
