@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Id>1056416354527097856</Id>
+  <DesignMetas>
+    <DesignWriteBackRuleMetaL>
+      <PkId>1A/UAW5O5VL/</PkId>
+      <DataXml>
+        <WriteBackRuleMetadata>
+          <RuleElement>
+            <WriteBackRuleElement>
+              <Formulas>
+                <WriteBackFormula action="edit" oid="1056416645209141248">
+                  <Formula>
+                    <CRFormula>
+                      <Expression>kdtest_integerfield</Expression>
+                      <ExprTran>整数003</ExprTran>
+                    </CRFormula>
+                  </Formula>
+                </WriteBackFormula>
+              </Formulas>
+            </WriteBackRuleElement>
+          </RuleElement>
+        </WriteBackRuleMetadata>
+      </DataXml>
+      <Name>反写规则</Name>
+      <Id>1056416354527097856</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignWriteBackRuleMetaL>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
