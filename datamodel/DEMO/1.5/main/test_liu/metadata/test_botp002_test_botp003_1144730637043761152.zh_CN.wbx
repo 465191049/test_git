@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Id>1144730637043761152</Id>
+  <DesignMetas>
+    <DesignWriteBackRuleMetaL>
+      <PkId>1KL=+JW6CW+U</PkId>
+      <DataXml>
+        <WriteBackRuleMetadata/>
+      </DataXml>
+      <Name>反写规则_Extend</Name>
+      <Id>1144730637043761152</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignWriteBackRuleMetaL>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
