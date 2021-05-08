@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Id>1144732598275145728</Id>
+  <DesignMetas>
+    <DesignWriteBackRuleMeta>
+      <DevType>1</DevType>
+      <ModifyDate>1619662354000</ModifyDate>
+      <DataXml>
+        <WriteBackRuleMetadata>
+          <DevType>1</DevType>
+          <ParentId>1144729019502035968</ParentId>
+          <Name>反写规则_Heritage</Name>
+          <RuleElement>
+            <WriteBackRuleElement>
+              <OriVersion>1150571000958552064</OriVersion>
+              <Id>1144732598275145728</Id>
+              <Name>反写规则_Heritage</Name>
+            </WriteBackRuleElement>
+          </RuleElement>
+          <Id>1144732598275145728</Id>
+          <InheritPath>1144729019502035968</InheritPath>
+          <CreateDate>1619662760000</CreateDate>
+        </WriteBackRuleMetadata>
+      </DataXml>
+      <ModifierId>1133252311779377152</ModifierId>
+      <ModelType>WriteBackRuleModel</ModelType>
+      <Isv>test</Isv>
+      <Version>1620358751657</Version>
+      <ParentId>1144729019502035968</ParentId>
+      <MasterId></MasterId>
+      <SysStatus>0</SysStatus>
+      <BizappId>1J2RN1N6V4BB</BizappId>
+      <TargetEntityNumber>test_botp003</TargetEntityNumber>
+      <SourceEntityNumber>test_botp002</SourceEntityNumber>
+      <Id>1144732598275145728</Id>
+      <InheritPath>1144729019502035968</InheritPath>
+      <CreateDate>1619662760000</CreateDate>
+      <CustStatus>2</CustStatus>
+    </DesignWriteBackRuleMeta>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

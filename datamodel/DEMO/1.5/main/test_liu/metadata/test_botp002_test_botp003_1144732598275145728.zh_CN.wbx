@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Id>1144732598275145728</Id>
+  <DesignMetas>
+    <DesignWriteBackRuleMetaL>
+      <PkId>1LA986L68L23</PkId>
+      <DataXml>
+        <WriteBackRuleMetadata>
+          <CreateDate>1619662760000</CreateDate>
+        </WriteBackRuleMetadata>
+      </DataXml>
+      <Name>反写规则_Heritage</Name>
+      <Id>1144732598275145728</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignWriteBackRuleMetaL>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
