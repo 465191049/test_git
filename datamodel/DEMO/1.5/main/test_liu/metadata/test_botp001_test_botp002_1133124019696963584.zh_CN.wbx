@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Id>1133124019696963584</Id>
+  <DesignMetas>
+    <DesignWriteBackRuleMetaL>
+      <PkId>1LKM35XQQ73C</PkId>
+      <DataXml>
+        <WriteBackRuleMetadata/>
+      </DataXml>
+      <Name>反写规则-反写单据体</Name>
+      <Id>1133124019696963584</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignWriteBackRuleMetaL>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
