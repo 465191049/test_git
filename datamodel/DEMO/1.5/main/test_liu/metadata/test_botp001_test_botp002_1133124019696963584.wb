@@ -5,7 +5,7 @@
   <DesignMetas>
     <DesignWriteBackRuleMeta>
       <DevType>0</DevType>
-      <ModifyDate>1620616425000</ModifyDate>
+      <ModifyDate>1620616474000</ModifyDate>
       <DataXml>
         <WriteBackRuleMetadata>
           <DevType>0</DevType>
@@ -34,9 +34,9 @@
                   <SourceCommitFieldKey>test_qtyfield</SourceCommitFieldKey>
                 </WriteBackFormula>
               </Formulas>
-              <OriVersion>1152732524561039360</OriVersion>
+              <OriVersion>1152732936970175488</OriVersion>
               <ExcessFalse>CanExcellAlways</ExcessFalse>
-              <ExcessCheckMessage>888</ExcessCheckMessage>
+              <ExcessCheckMessage>888000</ExcessCheckMessage>
               <BillCloseFieldKey/>
               <ExcessTrue>CanExcellAlways</ExcessTrue>
               <ExcessCheck>CanExcellAlways</ExcessCheck>
@@ -60,7 +60,7 @@
       <ModifierId>1133252311779377152</ModifierId>
       <ModelType>WriteBackRuleModel</ModelType>
       <Isv>test</Isv>
-      <Version>1620616425302</Version>
+      <Version>1620616474464</Version>
       <ParentId></ParentId>
       <MasterId></MasterId>
       <SysStatus>0</SysStatus>
