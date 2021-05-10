@@ -5,7 +5,7 @@
   <DesignMetas>
     <DesignWriteBackRuleMeta>
       <DevType>2</DevType>
-      <ModifyDate>1620616242000</ModifyDate>
+      <ModifyDate>1620616513000</ModifyDate>
       <DataXml>
         <WriteBackRuleMetadata>
           <DevType>2</DevType>
@@ -14,8 +14,9 @@
           <Name>反写规则-保存反写_扩展</Name>
           <RuleElement>
             <WriteBackRuleElement>
+              <ExcessCheckMessage>小数001 大于 500了666</ExcessCheckMessage>
               <Id>1133145192325451776</Id>
-              <ExtVersion>1145597584841113600</ExtVersion>
+              <ExtVersion>1152733260107744256</ExtVersion>
               <Name>反写规则-保存反写_扩展</Name>
             </WriteBackRuleElement>
           </RuleElement>
@@ -27,7 +28,7 @@
       <ModifierId>1133252311779377152</ModifierId>
       <ModelType>WriteBackRuleModel</ModelType>
       <Isv>test</Isv>
-      <Version>1619765874259</Version>
+      <Version>1620616512999</Version>
       <ParentId>1133122116867067904</ParentId>
       <MasterId>1133122116867067904</MasterId>
       <SysStatus>0</SysStatus>
