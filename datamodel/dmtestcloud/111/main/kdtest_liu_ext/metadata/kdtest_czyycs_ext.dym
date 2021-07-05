@@ -8,7 +8,7 @@
   <DesignMetas>
     <DesignFormMeta>
       <DevType>2</DevType>
-      <ModifyDate>1624610788002</ModifyDate>
+      <ModifyDate>1625484499343</ModifyDate>
       <DataXml>
         <FormMetadata>
           <DevType>2</DevType>
@@ -34,17 +34,26 @@
               <Id>1PP4S4SHKQ58</Id>
               <Key>kdtest_czyycs_ext</Key>
             </BillFormAp>
+            <FieldAp>
+              <Id>Bzd04q4Y1R</Id>
+              <FieldId>Bzd04q4Y1R</FieldId>
+              <Index>4</Index>
+              <MobFieldPattern>1</MobFieldPattern>
+              <Name>文本</Name>
+              <Key>kdtest_textfield</Key>
+              <ParentId>mqK0FWAH2I</ParentId>
+            </FieldAp>
             <AttachmentPanelAp action="edit" oid="rrz4n5821A">
               <AttachmentFileSource action="setnull"/>
             </AttachmentPanelAp>
           </Items>
         </FormMetadata>
       </DataXml>
-      <ModifierId>392828932170189853</ModifierId>
+      <ModifierId>74900085</ModifierId>
       <EntityId>1PP4S4SHKQ58</EntityId>
       <ModelType>BillFormModel</ModelType>
       <Isv>kdtest</Isv>
-      <Version>1624610788002</Version>
+      <Version>1625484499343</Version>
       <ParentId>1NINLBFKD1+4</ParentId>
       <MasterId>1NINLBFKD1+4</MasterId>
       <Number>kdtest_czyycs_ext</Number>
@@ -68,12 +77,23 @@
               <Id>1PP4S4SHKQ58</Id>
               <Key>kdtest_czyycs_ext</Key>
             </BillEntity>
+            <TextField>
+              <FieldName>fk_kdtest_textfield</FieldName>
+              <Features>
+                <Features>
+                  <Ver>1</Ver>
+                </Features>
+              </Features>
+              <Id>Bzd04q4Y1R</Id>
+              <Key>kdtest_textfield</Key>
+              <Name>文本</Name>
+            </TextField>
           </Items>
         </EntityMetadata>
       </DataXml>
       <ModelType>BillFormModel</ModelType>
       <Isv></Isv>
-      <Version>1624610788034</Version>
+      <Version>1625484499376</Version>
       <ParentId>1NINLBFKD1+4</ParentId>
       <MasterId>1NINLBFKD1+4</MasterId>
       <Number>kdtest_czyycs_ext</Number>
@@ -82,7 +102,7 @@
       <InheritPath>00305e8b000006ac,1NINLBFKD1+4</InheritPath>
     </DesignEntityMeta>
   </DesignMetas>
-  <Version>1624610788002</Version>
+  <Version>1625484499343</Version>
   <BOSVersion>1.0</BOSVersion>
   <BizunitId>1NINJ6VA+NLI</BizunitId>
 </DeployMetadata>
