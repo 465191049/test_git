@@ -8,7 +8,7 @@
   <DesignMetas>
     <DesignFormMeta>
       <DevType>2</DevType>
-      <ModifyDate>1625484499343</ModifyDate>
+      <ModifyDate>1625485292273</ModifyDate>
       <DataXml>
         <FormMetadata>
           <DevType>2</DevType>
@@ -35,12 +35,21 @@
               <Key>kdtest_czyycs_ext</Key>
             </BillFormAp>
             <FieldAp>
-              <Id>Bzd04q4Y1R</Id>
-              <FieldId>Bzd04q4Y1R</FieldId>
+              <Id>pFmzaSOWZG</Id>
+              <FieldId>pFmzaSOWZG</FieldId>
               <Index>4</Index>
               <MobFieldPattern>1</MobFieldPattern>
-              <Name>文本</Name>
-              <Key>kdtest_textfield</Key>
+              <Name>小数</Name>
+              <Key>kdtest_decimalfield</Key>
+              <ParentId>mqK0FWAH2I</ParentId>
+            </FieldAp>
+            <FieldAp>
+              <Id>NrQFZ87Ozf</Id>
+              <FieldId>NrQFZ87Ozf</FieldId>
+              <Index>5</Index>
+              <MobFieldPattern>1</MobFieldPattern>
+              <Name>整数</Name>
+              <Key>kdtest_integerfield</Key>
               <ParentId>mqK0FWAH2I</ParentId>
             </FieldAp>
             <AttachmentPanelAp action="edit" oid="rrz4n5821A">
@@ -53,7 +62,7 @@
       <EntityId>1PP4S4SHKQ58</EntityId>
       <ModelType>BillFormModel</ModelType>
       <Isv>kdtest</Isv>
-      <Version>1625484499343</Version>
+      <Version>1625485292273</Version>
       <ParentId>1NINLBFKD1+4</ParentId>
       <MasterId>1NINLBFKD1+4</MasterId>
       <Number>kdtest_czyycs_ext</Number>
@@ -77,23 +86,36 @@
               <Id>1PP4S4SHKQ58</Id>
               <Key>kdtest_czyycs_ext</Key>
             </BillEntity>
-            <TextField>
-              <FieldName>fk_kdtest_textfield</FieldName>
+            <DecimalField>
+              <FieldName>fk_kdtest_decimalfield</FieldName>
               <Features>
                 <Features>
                   <Ver>1</Ver>
                 </Features>
               </Features>
-              <Id>Bzd04q4Y1R</Id>
-              <Key>kdtest_textfield</Key>
-              <Name>文本</Name>
-            </TextField>
+              <Id>pFmzaSOWZG</Id>
+              <Key>kdtest_decimalfield</Key>
+              <DefValue>0</DefValue>
+              <Name>小数</Name>
+            </DecimalField>
+            <IntegerField>
+              <FieldName>fk_kdtest_integerfield</FieldName>
+              <Features>
+                <Features>
+                  <Ver>1</Ver>
+                </Features>
+              </Features>
+              <Id>NrQFZ87Ozf</Id>
+              <Key>kdtest_integerfield</Key>
+              <DefValue>0</DefValue>
+              <Name>整数</Name>
+            </IntegerField>
           </Items>
         </EntityMetadata>
       </DataXml>
       <ModelType>BillFormModel</ModelType>
       <Isv></Isv>
-      <Version>1625484499376</Version>
+      <Version>1625485292318</Version>
       <ParentId>1NINLBFKD1+4</ParentId>
       <MasterId>1NINLBFKD1+4</MasterId>
       <Number>kdtest_czyycs_ext</Number>
@@ -102,7 +124,7 @@
       <InheritPath>00305e8b000006ac,1NINLBFKD1+4</InheritPath>
     </DesignEntityMeta>
   </DesignMetas>
-  <Version>1625484499343</Version>
+  <Version>1625485292273</Version>
   <BOSVersion>1.0</BOSVersion>
   <BizunitId>1NINJ6VA+NLI</BizunitId>
 </DeployMetadata>
