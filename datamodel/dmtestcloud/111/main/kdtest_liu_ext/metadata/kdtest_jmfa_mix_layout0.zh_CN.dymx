@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1QA4OSK/OOCB</MasterId>
+  <Id>1QA4OSK/OOCB</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kdtest_jmfa_mix_layout0</Number>
+      <PkId>1QA4U9L82J1X</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>界面方案_组合_布局0</Name>
+      <Id>1QA4OSK/OOCB</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+  </DesignMetas>
+  <Version>1625207999261</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

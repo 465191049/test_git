@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Multilanguage>false</Multilanguage>
+  <MasterId>1QA4M54IIO4T</MasterId>
+  <BizappId>1O6J+E/FKIQ5</BizappId>
+  <Id>1QA4M54IIO4T</Id>
+  <DesignMetas>
+    <DesignFormMeta>
+      <DevType>0</DevType>
+      <ModifyDate>1625207884274</ModifyDate>
+      <DataXml>
+        <FormMetadata>
+          <Id>1QA4M54IIO4T</Id>
+          <Key>kdtest_jmfa_mix_layout</Key>
+          <ParentId>1QA4DRXD183/</ParentId>
+          <Name>界面方案_组合_布局</Name>
+          <InheritPath>00305e8b000006ac,ab7efc31000010ac,1QA4DRXD183/</InheritPath>
+          <Items>
+            <BillFormAp action="edit" oid="00305e8b000005ac">
+              <Id>1QA4M54IIO4T</Id>
+              <Name>界面方案_组合_布局</Name>
+              <Key>kdtest_jmfa_mix_layout</Key>
+            </BillFormAp>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <Hidden>true</Hidden>
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <ModifierId>13466739</ModifierId>
+      <EntityId>1QA4DRXD183/</EntityId>
+      <ModelType>BillFormModel</ModelType>
+      <Isv>kdtest</Isv>
+      <Version>1625207884274</Version>
+      <ParentId>1QA4DRXD183/</ParentId>
+      <MasterId></MasterId>
+      <Number>kdtest_jmfa_mix_layout</Number>
+      <BizappId>1O6J+E/FKIQ5</BizappId>
+      <IsvSign></IsvSign>
+      <Id>1QA4M54IIO4T</Id>
+      <InheritPath>00305e8b000006ac,ab7efc31000010ac,1QA4DRXD183/</InheritPath>
+    </DesignFormMeta>
+  </DesignMetas>
+  <Version>1625207884274</Version>
+  <BOSVersion>1.0</BOSVersion>
+  <BizunitId>1QA/45==RDTC</BizunitId>
+</DeployMetadata>

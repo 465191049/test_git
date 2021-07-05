@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1QD51+OEHL7U</MasterId>
+  <Id>1QD51+OEHL7U</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kdtest_report</Number>
+      <PkId>1QDL3EO45CXG</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>report</Name>
+      <Id>1QD51+OEHL7U</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kdtest_report</Number>
+      <PkId>1QDL3EQ+OPF+</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>report</Name>
+      <Id>1QD51+OEHL7U</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1625293674989</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1QA/AZJX=OCO</MasterId>
+  <Id>1QA/AZJX=OCO</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kdtest_jmfa_bt</Number>
+      <PkId>1QAH32QFDI/C</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>界面方案_单据类型</Name>
+      <Id>1QA/AZJX=OCO</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kdtest_jmfa_bt</Number>
+      <PkId>1QAH32T4JLM/</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>界面方案_单据类型</Name>
+      <Id>1QA/AZJX=OCO</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1625216470435</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1QA/Y5Z2V70Y</MasterId>
+  <Id>1QA/Y5Z2V70Y</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kdtest_jmfa_bt_layout</Number>
+      <PkId>1QA/Z2I6LFZY</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>界面方案_单据类型_布局</Name>
+      <Id>1QA/Y5Z2V70Y</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+  </DesignMetas>
+  <Version>1625204888031</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

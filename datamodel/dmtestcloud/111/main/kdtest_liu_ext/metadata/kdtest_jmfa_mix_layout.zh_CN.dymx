@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1QA4M54IIO4T</MasterId>
+  <Id>1QA4M54IIO4T</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kdtest_jmfa_mix_layout</Number>
+      <PkId>1QA4N8HAL+HT</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>界面方案_组合_布局</Name>
+      <Id>1QA4M54IIO4T</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+  </DesignMetas>
+  <Version>1625207884274</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1Q7J6W3UFYQ=</MasterId>
+  <Id>1Q7J6W3UFYQ=</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kdtest_b002</Number>
+      <PkId>1Q7JJ4KC=F0I</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>b002</Name>
+      <Id>1Q7J6W3UFYQ=</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kdtest_b002</Number>
+      <PkId>1Q7JJ4MSK7CL</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>b002</Name>
+      <Id>1Q7J6W3UFYQ=</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1625118495902</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

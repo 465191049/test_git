@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1QA4DRXD183/</MasterId>
+  <Id>1QA4DRXD183/</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kdtest_jmfa_mix</Number>
+      <PkId>1QA7H74/EK84</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>界面方案_组合</Name>
+      <Id>1QA4DRXD183/</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kdtest_jmfa_mix</Number>
+      <PkId>1QA7H76LZ4LQ</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>界面方案_组合</Name>
+      <Id>1QA4DRXD183/</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1625209699569</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
