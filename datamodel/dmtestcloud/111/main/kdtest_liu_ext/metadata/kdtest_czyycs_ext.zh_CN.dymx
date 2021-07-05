@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1NINLBFKD1+4</MasterId>
+  <Id>1PP4S4SHKQ58</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kdtest_czyycs_ext</Number>
+      <PkId>1PP4S51CUACH</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>操作原因测试</Name>
+      <Id>1PP4S4SHKQ58</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kdtest_czyycs_ext</Number>
+      <PkId>1PP4S53WQHX2</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>操作原因测试</Name>
+      <Id>1PP4S4SHKQ58</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1624610788002</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
