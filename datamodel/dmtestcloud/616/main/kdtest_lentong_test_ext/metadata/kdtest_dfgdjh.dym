@@ -8,7 +8,7 @@
   <DesignMetas>
     <DesignFormMeta>
       <DevType>0</DevType>
-      <ModifyDate>1625562809657</ModifyDate>
+      <ModifyDate>1625562867288</ModifyDate>
       <DataXml>
         <FormMetadata>
           <Isv>kdtest</Isv>
@@ -25,6 +25,14 @@
               <Name>ghjghjdf</Name>
               <Key>kdtest_dfgdjh</Key>
             </FormAp>
+            <FieldAp>
+              <Id>AGimuT7XvG</Id>
+              <FieldId>AGimuT7XvG</FieldId>
+              <MobFieldPattern>1</MobFieldPattern>
+              <Name>文本</Name>
+              <Key>kdtest_textfield</Key>
+              <ParentId>5DeVeeS2Dk</ParentId>
+            </FieldAp>
           </Items>
         </FormMetadata>
       </DataXml>
@@ -32,7 +40,7 @@
       <EntityId>1QODZ+JU7FS0</EntityId>
       <ModelType>DynamicFormModel</ModelType>
       <Isv>kdtest</Isv>
-      <Version>1625562809657</Version>
+      <Version>1625562867288</Version>
       <ParentId>VN8QNGEC95T</ParentId>
       <MasterId></MasterId>
       <Number>kdtest_dfgdjh</Number>
@@ -59,12 +67,22 @@
               <Key>kdtest_dfgdjh</Key>
               <Name>ghjghjdf</Name>
             </MainEntity>
+            <TextField>
+              <Features>
+                <Features>
+                  <Ver>1</Ver>
+                </Features>
+              </Features>
+              <Id>AGimuT7XvG</Id>
+              <Key>kdtest_textfield</Key>
+              <Name>文本</Name>
+            </TextField>
           </Items>
         </EntityMetadata>
       </DataXml>
       <ModelType>DynamicFormModel</ModelType>
       <Isv>kingdee</Isv>
-      <Version>1625562809708</Version>
+      <Version>1625562867304</Version>
       <ParentId>VN8QNGEC95T</ParentId>
       <MasterId></MasterId>
       <Number>kdtest_dfgdjh</Number>
@@ -73,7 +91,7 @@
       <InheritPath>VN8QNGEC95T</InheritPath>
     </DesignEntityMeta>
   </DesignMetas>
-  <Version>1625562809657</Version>
+  <Version>1625562867288</Version>
   <BOSVersion>1.0</BOSVersion>
   <BizunitId>1P5=MKUW0K+Q</BizunitId>
 </DeployMetadata>
