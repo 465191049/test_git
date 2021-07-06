@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1QO=SDMP7UA4</MasterId>
+  <Id>1QO=SDMP7UA4</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kdtest_bbdj1</Number>
+      <PkId>1QO=VYE30O7B</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>报表单据1</Name>
+      <Id>1QO=SDMP7UA4</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kdtest_bbdj1</Number>
+      <PkId>1QO=VYGIAG7O</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>报表单据1</Name>
+      <Id>1QO=SDMP7UA4</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1625568146121</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
