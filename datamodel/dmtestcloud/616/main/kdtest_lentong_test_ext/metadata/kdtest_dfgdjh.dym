@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Multilanguage>false</Multilanguage>
+  <MasterId>1QODZ+JU7FS0</MasterId>
+  <BizappId>1O5Z8OX1M5JM</BizappId>
+  <Id>1QODZ+JU7FS0</Id>
+  <DesignMetas>
+    <DesignFormMeta>
+      <DevType>0</DevType>
+      <ModifyDate>1625562809657</ModifyDate>
+      <DataXml>
+        <FormMetadata>
+          <Isv>kdtest</Isv>
+          <Id>1QODZ+JU7FS0</Id>
+          <Key>kdtest_dfgdjh</Key>
+          <EntityId>1QODZ+JU7FS0</EntityId>
+          <ParentId>VN8QNGEC95T</ParentId>
+          <BizappId>1O5Z8OX1M5JM</BizappId>
+          <Name>ghjghjdf</Name>
+          <InheritPath>VN8QNGEC95T</InheritPath>
+          <Items>
+            <FormAp action="edit" oid="VN8QNGEE57/">
+              <Id>1QODZ+JU7FS0</Id>
+              <Name>ghjghjdf</Name>
+              <Key>kdtest_dfgdjh</Key>
+            </FormAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <ModifierId>74900085</ModifierId>
+      <EntityId>1QODZ+JU7FS0</EntityId>
+      <ModelType>DynamicFormModel</ModelType>
+      <Isv>kdtest</Isv>
+      <Version>1625562809657</Version>
+      <ParentId>VN8QNGEC95T</ParentId>
+      <MasterId></MasterId>
+      <Number>kdtest_dfgdjh</Number>
+      <BizappId>1O5Z8OX1M5JM</BizappId>
+      <IsvSign></IsvSign>
+      <Id>1QODZ+JU7FS0</Id>
+      <InheritPath>VN8QNGEC95T</InheritPath>
+    </DesignFormMeta>
+    <DesignEntityMeta>
+      <DevType>0</DevType>
+      <DataXml>
+        <EntityMetadata>
+          <Id>1QODZ+JU7FS0</Id>
+          <ParentId>VN8QNGEC95T</ParentId>
+          <BizappId>1O5Z8OX1M5JM</BizappId>
+          <IsvSign/>
+          <Name>ghjghjdf</Name>
+          <InheritPath>VN8QNGEC95T</InheritPath>
+          <Items>
+            <MainEntity action="edit" oid="VN8QNH7=X+M">
+              <Template action="reset"/>
+              <dbRoute>demo</dbRoute>
+              <Id>1QODZ+JU7FS0</Id>
+              <Key>kdtest_dfgdjh</Key>
+              <Name>ghjghjdf</Name>
+            </MainEntity>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <ModelType>DynamicFormModel</ModelType>
+      <Isv>kingdee</Isv>
+      <Version>1625562809708</Version>
+      <ParentId>VN8QNGEC95T</ParentId>
+      <MasterId></MasterId>
+      <Number>kdtest_dfgdjh</Number>
+      <BizappId>1O5Z8OX1M5JM</BizappId>
+      <Id>1QODZ+JU7FS0</Id>
+      <InheritPath>VN8QNGEC95T</InheritPath>
+    </DesignEntityMeta>
+  </DesignMetas>
+  <Version>1625562809657</Version>
+  <BOSVersion>1.0</BOSVersion>
+  <BizunitId>1P5=MKUW0K+Q</BizunitId>
+</DeployMetadata>

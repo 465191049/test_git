@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1QODZ+JU7FS0</MasterId>
+  <Id>1QODZ+JU7FS0</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kdtest_dfgdjh</Number>
+      <PkId>1QODZ+TA1U2L</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>ghjghjdf</Name>
+      <Id>1QODZ+JU7FS0</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kdtest_dfgdjh</Number>
+      <PkId>1QODZ+Y1/+XR</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>ghjghjdf</Name>
+      <Id>1QODZ+JU7FS0</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1625562809657</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
