@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployAppMetadata>
+  <MasterId>1O5+FER8N5IX</MasterId>
+  <Id>1O5+FER8N5IX</Id>
+  <DesignMetas>
+    <DesignAppMetaL>
+      <PkId>1O5+FEO+QPH+</PkId>
+      <DataXml>
+        <AppMetadata/>
+      </DataXml>
+      <Name>new</Name>
+      <Description></Description>
+      <Id>1O5+FER8N5IX</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignAppMetaL>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployAppMetadata>
