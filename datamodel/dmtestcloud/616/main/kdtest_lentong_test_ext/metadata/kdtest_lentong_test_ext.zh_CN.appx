@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployAppMetadata>
+  <MasterId>1O5S4T2+VEY6</MasterId>
+  <Id>1O5Z8OX1M5JM</Id>
+  <DesignMetas>
+    <DesignAppMetaL>
+      <PkId>1Q=PNQ6OZCJ4</PkId>
+      <DataXml>
+        <AppMetadata/>
+      </DataXml>
+      <Name>lentong_test</Name>
+      <Description></Description>
+      <Id>1O5Z8OX1M5JM</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignAppMetaL>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployAppMetadata>
