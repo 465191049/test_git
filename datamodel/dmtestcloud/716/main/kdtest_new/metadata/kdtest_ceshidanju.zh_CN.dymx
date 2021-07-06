@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1O8IA1T/KL7B</MasterId>
+  <Id>1O8IA1T/KL7B</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kdtest_ceshidanju</Number>
+      <PkId>1O8J6PCKBLIG</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>测试单据</Name>
+      <Id>1O8IA1T/KL7B</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kdtest_ceshidanju</Number>
+      <PkId>1O8J6PF5VXT7</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>测试单据</Name>
+      <Id>1O8IA1T/KL7B</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1623202334331</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

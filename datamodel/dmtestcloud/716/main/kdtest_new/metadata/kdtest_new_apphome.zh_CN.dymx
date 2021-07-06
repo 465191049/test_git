@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1O5+FFWZRWVU</MasterId>
+  <Id>1O5+FFWZRWVU</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kdtest_new_apphome</Number>
+      <PkId>1O5+FG5=9+8R</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>new_应用首页</Name>
+      <Id>1O5+FFWZRWVU</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kdtest_new_apphome</Number>
+      <PkId>1O5+FG820EBW</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>new_应用首页</Name>
+      <Id>1O5+FFWZRWVU</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1623113810781</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

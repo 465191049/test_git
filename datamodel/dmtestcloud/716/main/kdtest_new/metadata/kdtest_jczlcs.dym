@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Multilanguage>false</Multilanguage>
+  <MasterId>1O5+HNR2RH7R</MasterId>
+  <BizappId>1O5+FER8N5IX</BizappId>
+  <Id>1O5+HNR2RH7R</Id>
+  <DesignMetas>
+    <DesignFormMeta>
+      <DevType>0</DevType>
+      <ModifyDate>1623113867684</ModifyDate>
+      <DataXml>
+        <FormMetadata>
+          <Isv>kdtest</Isv>
+          <Id>1O5+HNR2RH7R</Id>
+          <Key>kdtest_jczlcs</Key>
+          <EntityId>1O5+HNR2RH7R</EntityId>
+          <ParentId>1942c188000065ac</ParentId>
+          <BizappId>1O5+FER8N5IX</BizappId>
+          <Name>基础资料测试</Name>
+          <InheritPath>1942c188000065ac</InheritPath>
+          <Items>
+            <BasedataFormAp action="edit" oid="1942c188000064ac">
+              <MobListMeta>
+                <FormMetadata>
+                  <Items>
+                    <BillListAp action="edit" oid="_BillList_">
+                      <EntityId>1O5+HNR2RH7R</EntityId>
+                    </BillListAp>
+                  </Items>
+                </FormMetadata>
+              </MobListMeta>
+              <Id>1O5+HNR2RH7R</Id>
+              <BackColor>#E2E7EF</BackColor>
+              <Name>基础资料测试</Name>
+              <Key>kdtest_jczlcs</Key>
+            </BasedataFormAp>
+            <FlexPanelAp action="edit" oid="LL4BVAnADa">
+              <BackColor>#ffffff</BackColor>
+            </FlexPanelAp>
+            <FlexPanelAp action="edit" oid="PxNfkkak4s">
+              <Grow>0</Grow>
+              <BackColor>#ffffff</BackColor>
+              <Style>
+                <Style>
+                  <Border>
+                    <Border>
+                      <Top>10px_solid_#E2E7EF</Top>
+                      <Left>10px_solid_#E2E7EF</Left>
+                      <Bottom>10px_solid_#E2E7EF</Bottom>
+                      <Right>10px_solid_#E2E7EF</Right>
+                    </Border>
+                  </Border>
+                  <Padding action="setnull"/>
+                </Style>
+              </Style>
+            </FlexPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <ModifierId>13466739</ModifierId>
+      <EntityId>1O5+HNR2RH7R</EntityId>
+      <ModelType>BaseFormModel</ModelType>
+      <Isv>kdtest</Isv>
+      <Version>1623113867684</Version>
+      <ParentId>1942c188000065ac</ParentId>
+      <MasterId></MasterId>
+      <Number>kdtest_jczlcs</Number>
+      <BizappId>1O5+FER8N5IX</BizappId>
+      <IsvSign>kI0aab1cdYNZORyzUlpLN+BcmkB0kAUy9W1cNb0U3Q6nkht/jL/gE30QMNGqdPqTyrm7wOt/nPLvVsS3NVE5RoIidjB5gJIIYAtsxlwuf0DZJlNRSQYIBDA1BUFTTKU+CzVS/CuvbOI3ynECTDMve7AXlnajhKBd6chmKWPh6J4=</IsvSign>
+      <Id>1O5+HNR2RH7R</Id>
+      <InheritPath>1942c188000065ac</InheritPath>
+    </DesignFormMeta>
+    <DesignEntityMeta>
+      <DevType>0</DevType>
+      <DataXml>
+        <EntityMetadata>
+          <Id>1O5+HNR2RH7R</Id>
+          <ParentId>1942c188000065ac</ParentId>
+          <BizappId>1O5+FER8N5IX</BizappId>
+          <Name>基础资料测试</Name>
+          <InheritPath>1942c188000065ac</InheritPath>
+          <Items>
+            <BaseEntity action="edit" oid="1942c188000066ac">
+              <Template action="reset"/>
+              <dbRoute>secd</dbRoute>
+              <TableName>t_jughjgdfgh</TableName>
+              <Id>1O5+HNR2RH7R</Id>
+              <Key>kdtest_jczlcs</Key>
+              <Name>基础资料测试</Name>
+            </BaseEntity>
+            <MuliLangTextField action="edit" oid="8oq6R4m9CF">
+              <GL>true</GL>
+            </MuliLangTextField>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <ModelType>BaseFormModel</ModelType>
+      <Isv></Isv>
+      <Version>1623113867724</Version>
+      <ParentId>1942c188000065ac</ParentId>
+      <MasterId></MasterId>
+      <Number>kdtest_jczlcs</Number>
+      <BizappId>1O5+FER8N5IX</BizappId>
+      <Id>1O5+HNR2RH7R</Id>
+      <InheritPath>1942c188000065ac</InheritPath>
+    </DesignEntityMeta>
+  </DesignMetas>
+  <Version>1623113867684</Version>
+  <BOSVersion>1.0</BOSVersion>
+  <BizunitId>1O5+FETK=JBQ</BizunitId>
+</DeployMetadata>

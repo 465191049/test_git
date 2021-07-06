@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Multilanguage>false</Multilanguage>
+  <MasterId>1O5+FFWZRWVU</MasterId>
+  <BizappId>1O5+FER8N5IX</BizappId>
+  <Id>1O5+FFWZRWVU</Id>
+  <DesignMetas>
+    <DesignFormMeta>
+      <DevType>0</DevType>
+      <ModifyDate>1623113810781</ModifyDate>
+      <DataXml>
+        <FormMetadata>
+          <Isv>kdtest</Isv>
+          <Id>1O5+FFWZRWVU</Id>
+          <Key>kdtest_new_apphome</Key>
+          <EntityId>1O5+FFWZRWVU</EntityId>
+          <ParentId>/8T+06O/GOEH</ParentId>
+          <BizappId>1O5+FER8N5IX</BizappId>
+          <Name>new_应用首页</Name>
+          <InheritPath>/8T+06O/GOEH</InheritPath>
+          <Items>
+            <FormAp action="edit" oid="/8T+06O/H6M6">
+              <Id>1O5+FFWZRWVU</Id>
+              <Name>new_应用首页</Name>
+              <Key>kdtest_new_apphome</Key>
+            </FormAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <ModifierId>13466739</ModifierId>
+      <EntityId>1O5+FFWZRWVU</EntityId>
+      <ModelType>DynamicFormModel</ModelType>
+      <Isv>kdtest</Isv>
+      <Version>1623113810781</Version>
+      <ParentId>/8T+06O/GOEH</ParentId>
+      <MasterId></MasterId>
+      <Number>kdtest_new_apphome</Number>
+      <BizappId>1O5+FER8N5IX</BizappId>
+      <IsvSign></IsvSign>
+      <Id>1O5+FFWZRWVU</Id>
+      <InheritPath>/8T+06O/GOEH</InheritPath>
+    </DesignFormMeta>
+    <DesignEntityMeta>
+      <DevType>0</DevType>
+      <DataXml>
+        <EntityMetadata>
+          <Id>1O5+FFWZRWVU</Id>
+          <ParentId>/8T+06O/GOEH</ParentId>
+          <BizappId>1O5+FER8N5IX</BizappId>
+          <IsvSign/>
+          <Name>new_应用首页</Name>
+          <InheritPath>/8T+06O/GOEH</InheritPath>
+          <Items>
+            <MainEntity action="edit" oid="/8T+06O6R0/7">
+              <Template action="reset"/>
+              <dbRoute>secd</dbRoute>
+              <Id>1O5+FFWZRWVU</Id>
+              <Key>kdtest_new_apphome</Key>
+              <Name>new_应用首页</Name>
+            </MainEntity>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <ModelType>DynamicFormModel</ModelType>
+      <Isv></Isv>
+      <Version>1623113810811</Version>
+      <ParentId>/8T+06O/GOEH</ParentId>
+      <MasterId></MasterId>
+      <Number>kdtest_new_apphome</Number>
+      <BizappId>1O5+FER8N5IX</BizappId>
+      <Id>1O5+FFWZRWVU</Id>
+      <InheritPath>/8T+06O/GOEH</InheritPath>
+    </DesignEntityMeta>
+  </DesignMetas>
+  <Version>1623113810781</Version>
+  <BOSVersion>1.0</BOSVersion>
+  <BizunitId>1O5+FETK=JBQ</BizunitId>
+</DeployMetadata>

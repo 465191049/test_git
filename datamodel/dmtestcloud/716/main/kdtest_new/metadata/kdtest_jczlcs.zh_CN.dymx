@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1O5+HNR2RH7R</MasterId>
+  <Id>1O5+HNR2RH7R</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kdtest_jczlcs</Number>
+      <PkId>1O5+IYUADY42</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>基础资料测试</Name>
+      <Id>1O5+HNR2RH7R</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kdtest_jczlcs</Number>
+      <PkId>1O5+IYXRK=YA</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>基础资料测试</Name>
+      <Id>1O5+HNR2RH7R</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1623113867684</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
