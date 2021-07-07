@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1QRE4O2AL4S4</MasterId>
+  <Id>1QRE4O2AL4S4</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kdtest_wqwer</Number>
+      <PkId>1QRE4OG3461Y</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>qwrewqer</Name>
+      <Id>1QRE4O2AL4S4</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kdtest_wqwer</Number>
+      <PkId>1QRE4OK31/OQ</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>qwrewqer</Name>
+      <Id>1QRE4O2AL4S4</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1625637582426</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
