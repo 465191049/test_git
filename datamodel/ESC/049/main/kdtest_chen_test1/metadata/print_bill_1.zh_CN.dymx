@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1OT57/L60LOJ</MasterId>
+  <Id>1OT57/L60LOJ</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>print_bill_1</Number>
+      <PkId>1QUFGL22K4=Q</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>发的发生</Name>
+      <Id>1OT57/L60LOJ</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>print_bill_1</Number>
+      <PkId>1QUFGL3VG/ZG</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>发的发生</Name>
+      <Id>1OT57/L60LOJ</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1625713078773</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1R6ZSWFH8=SZ</MasterId>
+  <Id>1R6ZSWFH8=SZ</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kdtest_123</Number>
+      <PkId>1RDG2JTPE19Y</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>abc123</Name>
+      <Id>1R6ZSWFH8=SZ</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kdtest_123</Number>
+      <PkId>1RDG2JUQ=LQA</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>abc123</Name>
+      <Id>1R6ZSWFH8=SZ</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1626260882774</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

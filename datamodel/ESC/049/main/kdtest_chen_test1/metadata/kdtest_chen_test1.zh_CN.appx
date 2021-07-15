@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployAppMetadata>
+  <MasterId>15RV9A+TRZ0D</MasterId>
+  <Id>15RV9A+TRZ0D</Id>
+  <DesignMetas>
+    <DesignAppMetaL>
+      <PkId>1OT0+BLXTR5Y</PkId>
+      <DataXml>
+        <AppMetadata>
+          <AppMenus>
+            <AppMenuElement action="edit" oid="18+WFZ+LEYX#hpce">
+              <Parameter>{"caption":{"zh_CN":"帮助中心","zh_TW":"帮助中心_TW","en_US":"帮助中心"}}</Parameter>
+            </AppMenuElement>
+          </AppMenus>
+        </AppMetadata>
+      </DataXml>
+      <Name>陈凡测试1</Name>
+      <Description></Description>
+      <Id>15RV9A+TRZ0D</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignAppMetaL>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployAppMetadata>

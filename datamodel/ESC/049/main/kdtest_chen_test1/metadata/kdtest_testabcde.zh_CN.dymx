@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1O59=CHQY39W</MasterId>
+  <Id>1O59=CHQY39W</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kdtest_testabcde</Number>
+      <PkId>1O6FCFRD729M</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>应用弹窗0023</Name>
+      <Id>1O59=CHQY39W</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kdtest_testabcde</Number>
+      <PkId>1O6FCFW0HTJR</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>应用弹窗0023</Name>
+      <Id>1O59=CHQY39W</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1623150128020</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

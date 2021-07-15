@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>15RV9AOL1HUU</MasterId>
+  <Id>15RV9AOL1HUU</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>kdtest_chen_test1_apphome</Number>
+      <PkId>1PLO4XQ6L1IB</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>陈凡测试_应用首页</Name>
+      <Id>15RV9AOL1HUU</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>kdtest_chen_test1_apphome</Number>
+      <PkId>1PLO4XRL+9QS</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>陈凡测试_应用首页</Name>
+      <Id>15RV9AOL1HUU</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1624524260227</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
