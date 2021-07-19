@@ -8,7 +8,7 @@
     <DesignAppMeta>
       <DevType>0</DevType>
       <AppVersion>1.5.0</AppVersion>
-      <Modifier>13466739</Modifier>
+      <Modifier>74900085</Modifier>
       <DataXml>
         <AppMetadata>
           <DevType>0</DevType>
@@ -116,19 +116,6 @@
               <Seq>2</Seq>
             </AppMenuElement>
             <AppMenuElement>
-              <IconShortcut>/icons/pc/application/tysj3_48_48.png</IconShortcut>
-              <Visible>true</Visible>
-              <Description/>
-              <ParentId>15RV9A+TRZ0D</ParentId>
-              <OpenType>MainNewTabPage</OpenType>
-              <VectorImage>kdfont kdfont-tongyongtubiao5</VectorImage>
-              <Number>04ffbc0179</Number>
-              <Parameter/>
-              <Name/>
-              <Id>1144047939543371776</Id>
-              <Seq>3</Seq>
-            </AppMenuElement>
-            <AppMenuElement>
               <IconShortcut>/icons/pc/application/tysj4_48_48.png</IconShortcut>
               <Visible>true</Visible>
               <Description/>
@@ -211,7 +198,7 @@
       <Image>icons/pc/application/gongyingxietong_48_48.png</Image>
       <OrgFunc></OrgFunc>
       <Visible>1</Visible>
-      <ModifyDate>1623736849418</ModifyDate>
+      <ModifyDate>1626660440688</ModifyDate>
       <Dependency></Dependency>
       <HelpURL></HelpURL>
       <Label></Label>
