@@ -6,7 +6,7 @@
   <DesignMetas>
     <DesignFormMetaL>
       <Number>kdtest_123</Number>
-      <PkId>1RDG2JTPE19Y</PkId>
+      <PkId>1RTIKX9=F6MY</PkId>
       <DataXml>
         <FormMetadata/>
       </DataXml>
@@ -16,7 +16,7 @@
     </DesignFormMetaL>
     <DesignEntityMetaL>
       <Number>kdtest_123</Number>
-      <PkId>1RDG2JUQ=LQA</PkId>
+      <PkId>1RTIKX9RK=9R</PkId>
       <DataXml>
         <EntityMetadata/>
       </DataXml>
@@ -25,6 +25,6 @@
       <LocaleId>zh_CN</LocaleId>
     </DesignEntityMetaL>
   </DesignMetas>
-  <Version>1626260882774</Version>
+  <Version>1626660593013</Version>
   <BOSVersion>1.0</BOSVersion>
 </DeployMetadata>
