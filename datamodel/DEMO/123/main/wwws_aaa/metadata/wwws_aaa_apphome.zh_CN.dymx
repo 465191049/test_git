@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1SP1NIF8WB5R</MasterId>
+  <Id>1SP1NIF8WB5R</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>wwws_aaa_apphome</Number>
+      <PkId>1SP1NKTKILSQ</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>aaa_应用首页</Name>
+      <Id>1SP1NIF8WB5R</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>wwws_aaa_apphome</Number>
+      <PkId>1SP1NKVX6/9T</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>aaa_应用首页</Name>
+      <Id>1SP1NIF8WB5R</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1627520035285</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

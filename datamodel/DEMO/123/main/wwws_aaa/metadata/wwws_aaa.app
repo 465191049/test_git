@@ -25,6 +25,21 @@
           </AppFunctionPackets>
           <AppMenus>
             <AppMenuElement>
+              <FormId/>
+              <IconShortcut>/icons/pc/application/tysj2_48_48.png</IconShortcut>
+              <Visible>true</Visible>
+              <Description/>
+              <ParentId>1SP1NBKGXJPK</ParentId>
+              <OpenType>MainNewTabPage</OpenType>
+              <VectorImage>kdfont kdfont-tongyongtubiao4</VectorImage>
+              <Number>6e728371b1</Number>
+              <FormName/>
+              <Parameter/>
+              <Name>aaa</Name>
+              <Id>1210835816150990848</Id>
+              <Seq>1</Seq>
+            </AppMenuElement>
+            <AppMenuElement>
               <FormId>/WXHVRP15OWF</FormId>
               <IconShortcut>/icons/pc/entrance/helpcentre.png</IconShortcut>
               <Visible>0</Visible>
@@ -93,7 +108,7 @@
       <Image>icons/pc/application/gongyingxietong_48_48.png</Image>
       <OrgFunc></OrgFunc>
       <Visible>1</Visible>
-      <ModifyDate>1627540633000</ModifyDate>
+      <ModifyDate>1627542877000</ModifyDate>
       <Dependency></Dependency>
       <HelpURL></HelpURL>
       <Label></Label>

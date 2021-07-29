@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Multilanguage>false</Multilanguage>
+  <MasterId>1SP1NIF8WB5R</MasterId>
+  <BizappId>1SP1NBKGXJPK</BizappId>
+  <Id>1SP1NIF8WB5R</Id>
+  <DesignMetas>
+    <DesignFormMeta>
+      <DevType>0</DevType>
+      <ModifyDate>1627520035000</ModifyDate>
+      <DataXml>
+        <FormMetadata>
+          <Isv>wwws</Isv>
+          <Id>1SP1NIF8WB5R</Id>
+          <Key>wwws_aaa_apphome</Key>
+          <EntityId>1SP1NIF8WB5R</EntityId>
+          <ParentId>/8T+06O/GOEH</ParentId>
+          <BizappId>1SP1NBKGXJPK</BizappId>
+          <Name>aaa_应用首页</Name>
+          <InheritPath>/8T+06O/GOEH</InheritPath>
+          <Items>
+            <FormAp action="edit" oid="/8T+06O/H6M6">
+              <Id>1SP1NIF8WB5R</Id>
+              <Name>aaa_应用首页</Name>
+              <Key>wwws_aaa_apphome</Key>
+            </FormAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <ModifierId>1210115565184614400</ModifierId>
+      <EntityId>1SP1NIF8WB5R</EntityId>
+      <ModelType>DynamicFormModel</ModelType>
+      <Isv>wwws</Isv>
+      <Version>1627520035285</Version>
+      <ParentId>/8T+06O/GOEH</ParentId>
+      <MasterId></MasterId>
+      <Number>wwws_aaa_apphome</Number>
+      <BizappId>1SP1NBKGXJPK</BizappId>
+      <IsvSign></IsvSign>
+      <Id>1SP1NIF8WB5R</Id>
+      <InheritPath>/8T+06O/GOEH</InheritPath>
+    </DesignFormMeta>
+    <DesignEntityMeta>
+      <DevType>0</DevType>
+      <DataXml>
+        <EntityMetadata>
+          <Id>1SP1NIF8WB5R</Id>
+          <ParentId>/8T+06O/GOEH</ParentId>
+          <BizappId>1SP1NBKGXJPK</BizappId>
+          <IsvSign/>
+          <Name>aaa_应用首页</Name>
+          <InheritPath>/8T+06O/GOEH</InheritPath>
+          <Items>
+            <MainEntity action="edit" oid="/8T+06O6R0/7">
+              <Template action="reset"/>
+              <dbRoute>secd</dbRoute>
+              <Id>1SP1NIF8WB5R</Id>
+              <Key>wwws_aaa_apphome</Key>
+              <Name>aaa_应用首页</Name>
+            </MainEntity>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <ModelType>DynamicFormModel</ModelType>
+      <Isv></Isv>
+      <Version>1627520035311</Version>
+      <ParentId>/8T+06O/GOEH</ParentId>
+      <MasterId></MasterId>
+      <Number>wwws_aaa_apphome</Number>
+      <BizappId>1SP1NBKGXJPK</BizappId>
+      <Id>1SP1NIF8WB5R</Id>
+      <InheritPath>/8T+06O/GOEH</InheritPath>
+    </DesignEntityMeta>
+  </DesignMetas>
+  <Version>1627520035285</Version>
+  <BOSVersion>1.0</BOSVersion>
+  <BizunitId>1SP1NBYETULH</BizunitId>
+</DeployMetadata>
