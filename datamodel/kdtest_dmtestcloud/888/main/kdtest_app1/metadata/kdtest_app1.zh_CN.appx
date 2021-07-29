@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployAppMetadata>
+  <MasterId>10H7M+BWWSNJ</MasterId>
+  <Id>10H7M+BWWSNJ</Id>
+  <DesignMetas>
+    <DesignAppMetaL>
+      <PkId>1NK1KL8EKE83</PkId>
+      <DataXml>
+        <AppMetadata>
+          <AppFunctionPackets>
+            <AppFunctionPacketElement action="edit" oid="1NK1KL73TKVO">
+              <ParentId/>
+            </AppFunctionPacketElement>
+          </AppFunctionPackets>
+          <AppMenus>
+            <AppMenuElement action="edit" oid="1048311649829659648">
+              <Parameter>{"caption":{"zh_CN":"botpbill001列表","zh_TW":"botpbill001列表"}}</Parameter>
+            </AppMenuElement>
+            <AppMenuElement action="edit" oid="1048312040025755648">
+              <Parameter>{"caption":{"zh_CN":"botpbill002列表","zh_TW":"botpbill002列表"}}</Parameter>
+            </AppMenuElement>
+            <AppMenuElement action="edit" oid="1048312346721664000">
+              <Parameter>{"caption":{"zh_CN":"botpbill003列表","zh_TW":"botpbill003列表"}}</Parameter>
+            </AppMenuElement>
+          </AppMenus>
+        </AppMetadata>
+      </DataXml>
+      <Name>LIU</Name>
+      <Description></Description>
+      <Id>10H7M+BWWSNJ</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignAppMetaL>
+  </DesignMetas>
+  <BOSVersion>1.0</BOSVersion>
+</DeployAppMetadata>
