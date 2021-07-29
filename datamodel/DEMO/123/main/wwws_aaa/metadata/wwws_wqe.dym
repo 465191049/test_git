@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <Multilanguage>false</Multilanguage>
+  <MasterId>1SPWU2/9NT0H</MasterId>
+  <BizappId>1SP1NBKGXJPK</BizappId>
+  <Id>1SPWU2/9NT0H</Id>
+  <DesignMetas>
+    <DesignFormMeta>
+      <DevType>0</DevType>
+      <ModifyDate>1627540559000</ModifyDate>
+      <DataXml>
+        <FormMetadata>
+          <Isv>wwws</Isv>
+          <Id>1SPWU2/9NT0H</Id>
+          <Key>wwws_wqe</Key>
+          <EntityId>1SPWU2/9NT0H</EntityId>
+          <ParentId>00305e8b000006ac</ParentId>
+          <BizappId>1SP1NBKGXJPK</BizappId>
+          <Name>qwe</Name>
+          <InheritPath>00305e8b000006ac</InheritPath>
+          <Items>
+            <BillFormAp action="edit" oid="00305e8b000005ac">
+              <MobListMeta>
+                <FormMetadata>
+                  <Items>
+                    <BillListAp action="edit" oid="_BillList_">
+                      <EntityId>1SPWU2/9NT0H</EntityId>
+                    </BillListAp>
+                  </Items>
+                </FormMetadata>
+              </MobListMeta>
+              <Id>1SPWU2/9NT0H</Id>
+              <Name>qwe</Name>
+              <Key>wwws_wqe</Key>
+            </BillFormAp>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <ModifierId>1210115565184614400</ModifierId>
+      <EntityId>1SPWU2/9NT0H</EntityId>
+      <ModelType>BillFormModel</ModelType>
+      <Isv>wwws</Isv>
+      <Version>1627540559267</Version>
+      <ParentId>00305e8b000006ac</ParentId>
+      <MasterId></MasterId>
+      <Number>wwws_wqe</Number>
+      <BizappId>1SP1NBKGXJPK</BizappId>
+      <IsvSign></IsvSign>
+      <Id>1SPWU2/9NT0H</Id>
+      <InheritPath>00305e8b000006ac</InheritPath>
+    </DesignFormMeta>
+    <DesignEntityMeta>
+      <DevType>0</DevType>
+      <DataXml>
+        <EntityMetadata>
+          <Id>1SPWU2/9NT0H</Id>
+          <ParentId>00305e8b000006ac</ParentId>
+          <BizappId>1SP1NBKGXJPK</BizappId>
+          <IsvSign/>
+          <Name>qwe</Name>
+          <InheritPath>00305e8b000006ac</InheritPath>
+          <Items>
+            <BillEntity action="edit" oid="00305e8b000007ac">
+              <Template action="reset"/>
+              <dbRoute>secd</dbRoute>
+              <Id>1SPWU2/9NT0H</Id>
+              <Key>wwws_wqe</Key>
+              <Name>qwe</Name>
+            </BillEntity>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <ModelType>BillFormModel</ModelType>
+      <Isv></Isv>
+      <Version>1627540559309</Version>
+      <ParentId>00305e8b000006ac</ParentId>
+      <MasterId></MasterId>
+      <Number>wwws_wqe</Number>
+      <BizappId>1SP1NBKGXJPK</BizappId>
+      <Id>1SPWU2/9NT0H</Id>
+      <InheritPath>00305e8b000006ac</InheritPath>
+    </DesignEntityMeta>
+  </DesignMetas>
+  <Version>1627540559267</Version>
+  <BOSVersion>1.0</BOSVersion>
+  <BizunitId>1SP1NBYETULH</BizunitId>
+</DeployMetadata>

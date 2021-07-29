@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1SPWU2/9NT0H</MasterId>
+  <Id>1SPWU2/9NT0H</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>wwws_wqe</Number>
+      <PkId>1SPWU5JPU/6U</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Items>
+            <AttachmentPanelAp action="edit" oid="rrz4n5821A">
+              <AttachmentFileSource action="setnull"/>
+            </AttachmentPanelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>qwe</Name>
+      <Id>1SPWU2/9NT0H</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>wwws_wqe</Number>
+      <PkId>1SPWU5N8LT6K</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>qwe</Name>
+      <Id>1SPWU2/9NT0H</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1627540559267</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
