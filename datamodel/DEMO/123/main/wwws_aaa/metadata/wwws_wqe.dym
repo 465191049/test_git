@@ -8,7 +8,7 @@
   <DesignMetas>
     <DesignFormMeta>
       <DevType>0</DevType>
-      <ModifyDate>1627540559000</ModifyDate>
+      <ModifyDate>1627542835000</ModifyDate>
       <DataXml>
         <FormMetadata>
           <Isv>wwws</Isv>
@@ -34,6 +34,15 @@
               <Name>qwe</Name>
               <Key>wwws_wqe</Key>
             </BillFormAp>
+            <FieldAp>
+              <Id>BZelEpIXT5</Id>
+              <FieldId>BZelEpIXT5</FieldId>
+              <Index>4</Index>
+              <MobFieldPattern>1</MobFieldPattern>
+              <Name>整数</Name>
+              <Key>wwws_integerfield</Key>
+              <ParentId>mqK0FWAH2I</ParentId>
+            </FieldAp>
             <AttachmentPanelAp action="edit" oid="rrz4n5821A">
               <AttachmentFileSource action="setnull"/>
             </AttachmentPanelAp>
@@ -44,7 +53,7 @@
       <EntityId>1SPWU2/9NT0H</EntityId>
       <ModelType>BillFormModel</ModelType>
       <Isv>wwws</Isv>
-      <Version>1627540559267</Version>
+      <Version>1627542835079</Version>
       <ParentId>00305e8b000006ac</ParentId>
       <MasterId></MasterId>
       <Number>wwws_wqe</Number>
@@ -71,12 +80,24 @@
               <Key>wwws_wqe</Key>
               <Name>qwe</Name>
             </BillEntity>
+            <IntegerField>
+              <FieldName>fk_wwws_integerfield</FieldName>
+              <Features>
+                <Features>
+                  <Ver>1</Ver>
+                </Features>
+              </Features>
+              <Id>BZelEpIXT5</Id>
+              <Key>wwws_integerfield</Key>
+              <DefValue>0</DefValue>
+              <Name>整数</Name>
+            </IntegerField>
           </Items>
         </EntityMetadata>
       </DataXml>
       <ModelType>BillFormModel</ModelType>
       <Isv></Isv>
-      <Version>1627540559309</Version>
+      <Version>1627542835099</Version>
       <ParentId>00305e8b000006ac</ParentId>
       <MasterId></MasterId>
       <Number>wwws_wqe</Number>
@@ -85,7 +106,7 @@
       <InheritPath>00305e8b000006ac</InheritPath>
     </DesignEntityMeta>
   </DesignMetas>
-  <Version>1627540559267</Version>
+  <Version>1627542835079</Version>
   <BOSVersion>1.0</BOSVersion>
   <BizunitId>1SP1NBYETULH</BizunitId>
 </DeployMetadata>
