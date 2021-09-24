@@ -1,3 +1,6 @@
+var nt_meta='{"name":"rootnode111","type":"0","detail":"I am rootnode","comment":"no opinion","author":"rd_jingqing_xie","time":"23432541515",'+
+			'"leftson":[{"name":"rootnode111","type":"0","detail":"I am rootnode","comment":"no opinion","author":"rd_jingqing_xie","time":"23432541515"}]}'
+
 var nt={};
 nt.h_interval=50;
 nt.v_interval=10;
