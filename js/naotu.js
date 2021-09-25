@@ -45,40 +45,75 @@ nt.stroke_color="rgb(57, 80, 96)";
 nt.func_draw_naotu=function(){
 	let obj = JSON.parse(nt.nt_meta);
 	let root_name=obj['name'];
-
-	
-	let wh=root_name.getTextWH({
-		"fontSize" : "16px",
-	});
-
+	alert(nt.func_draw_root(root_name));
 
 	var svg_1='<g id="kity_g_8" transform="translate(0, 0)">'
 				+	'<g id="minder1" text-rendering="optimize-speed" transform="translate( '+ nt.root_x + ' ' + nt.root_y +' )">'
 				+       '<g id="minder_connect_group1">'
 				+       '</g>'
-				+		'<g id="minder_node1" transform="matrix( 1 0 0 1 0 0 )">'
-				+			'<path id="node_outline1" fill="rgb(115, 161, 191)" stroke="rgb(57, 80, 96)" d="M-19,-20h96a5,5,0,0,1,5,5v30a5,5,0,0,1,-5,5h-96a5,5,0,0,1,-5,-5v-30a5,5,0,0,1,5,-5z" stroke-width="3">'
-				+			'</path>'
-				+			'<g id="node_text1" transform="translate( 0 -2.4 )" fill="white">'
-				+				'<text id="kity_text_22" text-rendering="inherit" dominant-baseline="text-before-edge" font-size="16" dy="0" y="5">'+root_name
-				+				'</text>'
-				+			'</g>'
-				+		'</g>'
+				+		nt.func_draw_root(root_name)
 				+	'</g>'
 				+'</g>' ;
 				
 	$('#svg_1').html(svg_1);
 };
-function func_draw_root(){
+nt.func_get_path_d=function(node_name,font_size){
+	let wh=node_name.getTextWH({
+		"fontSize" : ""+font_size+"px"
+	});
+	
+	d="M";
+	d=d+"-"+(wh.w/2+font_size)+",";
+	d=d+"-"+font_size;
+	d=d+' h'+(wh.w+font_size*2);
+	if(font_size == 16){
+		d=d+' a5,5,0,0,1,5,5';
+	}else if(font_size == 14){
+		d=d+' a3,3,0,0,1,3,3';
+	}
+	d=d+' v'+(font_size*2);
+	if(font_size == 16){
+		d=d+' a5,5,0,0,1,-5,5';
+	}else if(font_size == 14){
+		d=d+' a3,3,0,0,1,-3,3';
+	}
+	d=d+' h-'+(wh.w+font_size*2);
+	if(font_size == 16){
+		d=d+' a5,5,0,0,1,-5,-5';
+	}else if(font_size == 14){
+		d=d+' a3,3,0,0,1,-3,-3';
+	}
+	d=d+' v-'+(font_size*2);
+	if(font_size == 16){
+		d=d+' a5,5,0,0,1,5,-5';
+	}else if(font_size == 14){
+		d=d+' a3,3,0,0,1,3,-3';
+	}
+	d=d+' z';
+	return d;
+}
+nt.func_draw_text=function(node_name,font_size){
+	let wh=node_name.getTextWH({
+		"fontSize" : ""+font_size+"px"
+	});
+	return '<g id="node_text1" transform="translate( -'+(wh.w/2)+' '+(font_size/2)+' )" fill="white">'
+				+				'<text id="kity_text_22" text-rendering="inherit" dominant-baseline="text-before-edge" font-size="'+font_size+'" dy="0" y="0">'+node_name
+				+				'</text>'
+				+			'</g>';
+}
+nt.func_draw_root=function(root_name){
+
+	return '<g id="root_node" transform="matrix( 1 0 0 1 0 0 )">'
+				+			'<path id="node_outline1" fill="rgb(115, 161, 191)" stroke="rgb(57, 80, 96)" d="'+nt.func_get_path_d(root_name,nt.font_size_root)+'" stroke-width="3">'
+				+			'</path>'
+				+			nt.func_draw_text(root_name,nt.font_size_root)
+				+		'</g>';
 }
 function func_draw_node(){
 }
 function func_draw_connect(){
 }
-function func_draw_text(){
-}
-function get_path_d(){
-}
+
 
 
 nt.test=function(){
