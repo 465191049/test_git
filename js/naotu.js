@@ -29,8 +29,8 @@ nt.nt_meta='{"name":"rootnode111","type":"0","detail":"I am rootnode","comment":
 			'{"name":"subnode222","type":"0","detail":"I am subnode","comment":"no opinion","author":"rd_jingqing_xie","time":"23432541515"}],'+
 			'"rightson":[{"name":"subnode666","type":"0","detail":"I am subnode","comment":"no opinion","author":"rd_jingqing_xie","time":"23432541515"}]}';
 
-nt.root_x=$(window).width()/2;
-nt.root_y=$(window).height()/2;
+nt.root_h=$(window).width()/2;
+nt.root_v=$(window).height()/2;
 
 nt.h_interval=50;
 nt.v_interval=10;
@@ -42,13 +42,38 @@ nt.font_size_third=12;
 nt.fill_color_root='rgb(115, 161, 191)';
 nt.stroke_color="rgb(57, 80, 96)";
 
+nt.func_make_ui_meta=function(){
+	let obj = JSON.parse(nt.nt_meta);
+}
+
+nt.func_make_ui_meta_right=function(right_list){
+	for(node in right_list){
+		if('rightson' in node.keys() && lenth(node['rightson'])>0{
+			nt.func_make_ui_meta_right(node['rightson']);
+		}else{//叶子结点了
+			//计算本叶子的宽高
+		}
+	}
+}
+
 nt.func_draw_naotu=function(){
 	let obj = JSON.parse(nt.nt_meta);
+	
+	//先画根节点
 	let root_name=obj['name'];
-	alert(nt.func_draw_root(root_name));
+	g_root=nt.func_draw_root(root_name);
+	
+	//再画rightson
+	if('rightson' in obj.keys()){
+		let right_son=obj['rightson'];
+		for(node in right_son){
+			//如何定位node坐标呢？？？
+		}
+	}
+	
 
 	var svg_1='<g id="kity_g_8" transform="translate(0, 0)">'
-				+	'<g id="minder1" text-rendering="optimize-speed" transform="translate( '+ nt.root_x + ' ' + nt.root_y +' )">'
+				+	'<g id="minder1" text-rendering="optimize-speed" transform="translate( '+ nt.root_h + ' ' + nt.root_v +' )">'
 				+       '<g id="minder_connect_group1">'
 				+       '</g>'
 				+		nt.func_draw_root(root_name)
